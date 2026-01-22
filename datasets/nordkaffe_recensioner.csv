@@ -1,0 +1,31 @@
+recension_id,kund_id,produkt,datum,betyg,recension_text,kanal
+R001,K001,Espresso Blend,2024-01-20,5,Fantastiskt gott kaffe! Perfekt krämig crema och underbar smak. Kommer definitivt köpa igen.,webb
+R002,K003,Lungo Klassisk,2024-01-25,4,Bra kaffe för priset. Lite för starkt för min smak men kvaliteten är hög.,webb
+R003,K002,Cappuccino Mix,2024-02-01,2,Besviken på leveransen som tog över en vecka. Kaffet var okej men servicen under all kritik.,email
+R004,K005,Kaffekvarn Pro,2024-02-05,5,Bästa kaffekvarnen jag ägt! Tyst motor och perfekt malning varje gång. Rekommenderas varmt!,webb
+R005,K008,Latte Lovers,2024-02-10,3,Helt okej kaffe. Varken bättre eller sämre än andra märken i samma prisklass.,webb
+R006,K004,Filterbryggare,2024-02-15,1,Produkten slutade fungera efter bara två veckor. Extremt missnöjd med kvaliteten.,email
+R007,K006,Lungo Klassisk,2024-02-18,4,Smakrik och fyllig. Perfekt till frukost. Snabb leverans också!,webb
+R008,K009,Mjölkskummare,2024-02-22,5,Wow! Gör precis som baristan på mitt favoritcafé. Fantastisk produkt!,webb
+R009,K007,Kaffebönor Dark,2024-02-25,2,För mörkt rostat för min smak. Smakade lite bränt. Inte vad jag förväntade mig.,webb
+R010,K011,Lungo Klassisk,2024-03-01,5,Underbart kaffe! Köper alltid detta till kontoret. Alla kollegor älskar det.,email
+R011,K012,Latte Lovers,2024-03-05,3,Ganska bra men priset känns lite högt jämfört med konkurrenterna.,webb
+R012,K014,Espresso Blend,2024-03-08,5,Det bästa espressot jag smakat! Intensiv smak med noter av choklad. Helt perfekt!,webb
+R013,K015,Cappuccino Mix,2024-03-12,4,Smidigt och gott. Lätt att göra hemma. Önskar bara förpackningen var större.,webb
+R014,K003,Kaffekvarn Mini,2024-03-15,2,Fungerar men är ganska högljudd. Förväntade mig bättre för detta pris.,email
+R015,K016,Filterkanna Glas,2024-03-18,1,Kannan sprack efter första disken. Mycket dålig kvalitet. Vill ha pengarna tillbaka!,email
+R016,K017,Latte Lovers,2024-03-22,5,Så himla gott! Smaken av karamell är perfekt balanserad. Ny favorit!,webb
+R017,K002,Kaffebönor Dark,2024-03-25,4,Kraftfull smak som passar bra till espresso. Fräscha bönor med bra hållbarhet.,webb
+R018,K019,Cappuccino Mix,2024-03-28,3,Helt ok produkt. Inte lika bra som det man får på café men funkar hemma.,webb
+R019,K018,Espresso Blend,2024-04-01,5,Otroligt nöjd! Aromerna är fantastiska och priset är rimligt. Rekommenderar till alla kaffeälskare!,webb
+R020,K020,Termos Deluxe,2024-04-05,1,Håller inte värmen alls! Kaffet var kallt efter bara en timme. Totalt värdelös.,email
+R021,K013,Espresso Blend,2024-04-08,4,Mycket gott kaffe. Leveransen var snabb och förpackningen var snygg.,webb
+R022,K021,Latte Lovers,2024-04-12,5,Helt underbart! Familjen älskar detta kaffe. Kommer bli storkund!,webb
+R023,K006,Kaffebönor Dark,2024-04-15,2,Tyvärr var bönorna inte fräscha. Dålig smak och konstig lukt. Besviken.,email
+R024,K022,Kaffekvarn Pro,2024-04-18,5,Professionell kvalitet till hemmabruk. Värd varenda krona! Fem stjärnor!,webb
+R025,K024,Filterbryggare,2024-04-22,3,Fungerar som den ska men designen känns billig. Okej för priset.,webb
+R026,K025,Latte Lovers,2024-04-25,4,Gott och krämigt. Mina barn älskar det. Bra val för hela familjen.,webb
+R027,K001,Termos Deluxe,2024-04-28,2,Läcker från locket. Första termosen jag köpt som inte håller tätt. Skickar tillbaka.,email
+R028,K010,Espresso Blend,2024-05-01,5,Konsekvent hög kvalitet! Har köpt detta i ett år nu och blir aldrig besviken.,webb
+R029,K023,Cappuccino Mix,2024-05-05,4,Snabb leverans och god smak. Enda minuset är att förpackningen är svår att återförsluta.,webb
+R030,K008,Mjölkskummare,2024-05-08,5,Gör mitt morgonkaffe till en liten lyx varje dag. Bästa köpet jag gjort!,webb

@@ -1,0 +1,31 @@
+kund_id,namn,email,stad,registrerad,total_kop,medlemsniva
+K001,Anna Andersson,anna.andersson@gmail.com,Stockholm,2023-01-15,2450.50,Guld
+K002,Erik Eriksson,erik.eriksson@hotmail.com,  Göteborg,2023-02-20,1230,Silver
+K003,Maria Svensson,maria.svensson@yahoo.se,malmö,15/03/2023,3200.00,Guld
+K004,Johan Karlsson,johan.karlsson@gmail.com,Stockholm,2023-04-10,890.5,brons
+K005,Lisa Nilsson,lisa.nilsson@outlook.com,UPPSALA,2023-05-05,1560,Silver
+K006,Peter Lindgren,,Göteborg,2023/06/12,2100.00,silver
+K007,Sara Bergström,sara.bergstrom@gmail.com,Stockholm,2023-07-22,450,Brons
+K008,Anders Johansson,anders.j@hotmail.com,göteborg,2023-08-30,3650.50,GULD
+K009,Emma Larsson,emma.larsson@gmail.com,Malmö,09/15/2023,1890,Silver
+K010,Oscar Pettersson,oscar.p@yahoo.se,  stockholm  ,2023-10-01,670.00,Brons
+K011,Karin Olsson,karin.olsson@gmail.com,Uppsala,2023-11-18,2890,Guld
+K012,Fredrik Lindqvist,fredrik@lindqvist.se,Malmö,2023-12-05,1 450,Silver
+K013,Helena Ström,helena.strom@hotmail.com,Göteborg,2024-01-10,520.50,brons
+K014,Mikael Berg,mikael.berg@gmail.com,Stockholm,10/02/2024,4200.00,Guld
+K015,Sofie Nyström,sofie.n@outlook.com,malmö,2024-03-15,980,SILVER
+K016,David Ekberg,david.ekberg@gmail.com,Uppsala,2024-04-20,1670.50,Silver
+K017,Anna Andersson,anna.a@yahoo.se,  Göteborg,25/05/2024,2340,guld
+K018,Marcus Holm,marcus.holm@gmail.com,Stockholm,2024-06-08,1120,Silver
+K019,Elin Fransson,elin.f@hotmail.com,MALMÖ,2024-07-14,3100.00,Guld
+K020,Gustav Lund,gustav.lund@gmail.com,Göteborg,,1890.50,Silver
+K021,Ida Månsson,,Uppsala,2024-09-01,2 250,Guld
+K022,Jakob Persson,jakob.p@outlook.com,stockholm,2024-10-10,430,Brons
+K023,Malin Dahl,malin.dahl@gmail.com,Malmö,11/15/2024,1560.00,silver
+K024,Niklas Åberg,niklas.aberg@hotmail.com,Göteborg,2024-12-01,2780,Guld
+K025,Olivia Sandberg,olivia.s@gmail.com,Uppsala,2024-12-20,890.50,Brons
+K026,,tom.karlsson@yahoo.se,Stockholm,2025-01-05,1340,Silver
+K027,Viktor Sjögren,viktor.sjogren@gmail.com,  malmö  ,15/01/2025,NaN,Brons
+K028,Wilma Lindberg,wilma.l@hotmail.com,Göteborg,2025-02-10,2100.00,Guld
+K029,Axel Nordin,axel.nordin@outlook.com,Uppsala,2025-03-01,1670,Silver
+K030,Beatrice Ek,beatrice.ek@gmail.com,Stockholm,03/20/2025,3450.50,GULD

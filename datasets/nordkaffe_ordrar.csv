@@ -1,0 +1,41 @@
+order_id,kund_id,order_datum,produkt,kategori,antal,pris_st,kanal,status
+ORD-001,K001,2024-01-15,Espresso Blend,Kaffe,2,189.00,online,levererad
+ORD-002,K003,2024-01-16,Lungo Klassisk,kaffe,1,169.00,butik,levererad
+ORD-003,K002,17/01/2024,Cappuccino Mix,Kaffe,3,199.00,Online,levererad
+ORD-004,K005,2024-01-18,Kaffekvarn Pro,Tillbehör,1,899.00,online,LEVERERAD
+ORD-005,K001,2024-01-20,Espresso Blend,Kaffe,1,189.00,  butik,levererad
+ORD-006,K008,21/01/2024,Latte Lovers,kaffe,2,179.00,online,levererad
+ORD-007,K004,2024-01-22,Filterbryggare,tillbehör,1,1 299.00,Butik,levererad
+ORD-008,K006,2024-01-25,Lungo Klassisk,Kaffe,4,169.00,online,returnerad
+ORD-009,K003,2024-01-28,Espresso Blend,Kaffe,2,189.00,butik,levererad
+ORD-010,K007,30/01/2024,Kaffebönor Dark,KAFFE,1,219.00,Online,levererad
+ORD-011,K009,2024-02-02,Mjölkskummare,Tillbehör,1,449.00,online,levererad
+ORD-012,K002,2024-02-05,Cappuccino Mix,Kaffe,2,199.00,butik,LEVERERAD
+ORD-013,K010,06/02/2024,Espresso Blend,kaffe,3,189.00,  Online  ,levererad
+ORD-014,K011,2024-02-10,Lungo Klassisk,Kaffe,1,169.00,butik,levererad
+ORD-015,K001,2024-02-12,Termos Deluxe,tillbehör,2,329.00,online,returnerad
+ORD-016,K012,2024-02-15,Latte Lovers,Kaffe,2,179.00,Butik,levererad
+ORD-017,K008,18/02/2024,Kaffebönor Dark,Kaffe,1,219.00,online,levererad
+ORD-018,K014,2024-02-20,Espresso Blend,kaffe,4,189.00,butik,levererad
+ORD-019,K003,2024-02-22,Kaffekvarn Mini,Tillbehör,1,599.00,Online,LEVERERAD
+ORD-020,K015,25/02/2024,Cappuccino Mix,Kaffe,1,199.00,  butik,levererad
+ORD-021,K005,2024-02-28,Lungo Klassisk,KAFFE,2,169.00,online,levererad
+ORD-022,K016,2024-03-02,Filterkanna Glas,tillbehör,1,249.00,butik,returnerad
+ORD-023,K009,05/03/2024,Espresso Blend,Kaffe,2,189.00,Online,levererad
+ORD-024,K017,2024-03-08,Latte Lovers,Kaffe,3,179.00,online,levererad
+ORD-025,K002,2024-03-10,Kaffebönor Dark,kaffe,1,219.00,Butik,LEVERERAD
+ORD-026,K018,2024-03-12,Espresso Blend,Kaffe,1,189.00,  online,levererad
+ORD-027,K011,15/03/2024,Mjölkskummare,Tillbehör,1,449.00,butik,levererad
+ORD-028,K019,2024-03-18,Cappuccino Mix,KAFFE,2,199.00,Online,levererad
+ORD-029,K004,2024-03-20,Lungo Klassisk,Kaffe,1,169.00,butik,levererad
+ORD-030,K020,22/03/2024,Termos Deluxe,tillbehör,1,329.00,online,RETURNERAD
+ORD-031,K013,2024-03-25,Espresso Blend,Kaffe,2,189.00,Butik,levererad
+ORD-032,K021,2024-03-28,Latte Lovers,kaffe,1,179.00,  butik  ,levererad
+ORD-033,K006,30/03/2024,Kaffebönor Dark,Kaffe,2,219.00,online,levererad
+ORD-034,K022,2024-04-02,Kaffekvarn Pro,Tillbehör,1,899.00,Online,levererad
+ORD-035,K001,2024-04-05,Espresso Blend,kaffe,3,189.00,butik,LEVERERAD
+ORD-036,K023,08/04/2024,Cappuccino Mix,Kaffe,1,199.00,online,levererad
+ORD-037,K008,2024-04-10,Lungo Klassisk,KAFFE,2,169.00,Butik,levererad
+ORD-038,K024,2024-04-12,Filterbryggare,tillbehör,1,1 299.00,online,returnerad
+ORD-039,K010,15/04/2024,Espresso Blend,Kaffe,1,189.00,  Online,levererad
+ORD-040,K025,2024-04-18,Latte Lovers,Kaffe,2,179.00,butik,levererad
